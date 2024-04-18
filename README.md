@@ -29,6 +29,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoiyan&show_icons=true&locale=en" alt="shoiyan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoiyan&" alt="shoiyan" /></p>

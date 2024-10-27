@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Paul Kapolonto a.k.a <a href="https://github.com/SHOIYAN">SHOIYAN</a></font></h1>
-<h3 align="center"><font face="Arial">Paul is a passionate Cloud Enthusiast, currently diving into the world of Cloud and DevOps. Feel free to reach out for collaborations on Cloud Native Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Paul. </a></font></h1>
+
 
 <!-- Centered GIF -->
 <div align="center">

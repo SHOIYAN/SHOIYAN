@@ -52,7 +52,7 @@
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/paul-kishoiyan" target="_blank">
+  <a href="https://www.linkedin.com/in/#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-kishoiyan" height="30" width="40" />
   </a>
 </p>

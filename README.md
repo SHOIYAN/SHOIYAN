@@ -1,12 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Paul. </a></font></h1>
 
-
-<!-- Centered GIF -->
-<div align="center">
-  <img height="300" width="500" src="https://media1.tenor.com/m/wkJhIO6KcrIAAAAC/avatar-the-last-air-bender-zuko.gif" />
-</div>
-
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
